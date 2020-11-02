@@ -1,0 +1,3 @@
+archive	id	url	title	text	collocations	words
+20160901	5	https://lalala.com/very-important-news	Software glitch was found in Microsoft	Errors in software are everywhere, even in Windows 2020.	['software glitch', 'errors in software']	{'software': 2, 'glitch': 1, 'error': 1}
+20160902	10	https://lalala.com/very-important-news2	Software glitch was found in Google	Errors in software are everywhere, even in Google Chrome	['software glitch', 'errors in software']	{'software': 2, 'glitch': 1, 'error': 1}
