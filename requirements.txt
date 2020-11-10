@@ -1,0 +1,5 @@
+pandas==1.1.3
+warcio==1.7.4
+spacy==2.3.2
+cloudstor==0.1.1
+newspaper3k==0.2.8
