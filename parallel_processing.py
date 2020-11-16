@@ -93,13 +93,15 @@ def get_indices(arr_len, parts_count):
     indices = []
     for i in range(parts_count):
         indices.append(arr_len * i // parts_count)
+    indices.append(arr_len)
     return indices
 
 
 def get_arr_parts(arr, indices):
     arr_parts = []
     for i in range(1, len(indices)):
-        arr_parts.append(arr[indices[i - 1], indices[i]])
+        print(i)
+        arr_parts.append(arr[indices[i - 1]:indices[i]])
     return arr_parts
 
 
