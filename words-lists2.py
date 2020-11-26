@@ -8,6 +8,7 @@ software_words = [
     'technical',
     'system',
     'computer',
+    'mobile',
     'application',
     'device',
     'fix',
