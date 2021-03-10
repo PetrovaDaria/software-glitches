@@ -1,0 +1,47 @@
+Could Russian hackers mess with the U.S. election results? It wouldn't be easy; here's why	"The recent Russian hack into the Democratic National Committee’s computers and subsequent FBI warning that two states’ elections databases had been victims of cyberattacks are raising fears that a foreign power might penetrate U.S. systems and try to alter the outcome of November’s vote.
+
+Though possible, such an unprecedented foreign election-day hacking would be hard to pull off, experts say. Here are some answers to common questions:
+
+How realistic is the threat that hackers could break into U.S. election systems and alter vote tallies?
+
+Not very, thanks mostly to the fact that even presidential elections are highly decentralized and often still rely on old-fashioned systems rather than cutting-edge technology.
+
+First, there are more than 8,000 separate local jurisdictions where voters cast ballots for president, and each one is largely free to use whatever methods, technology and vendors they deem appropriate, based on varying local or state rules and guidelines. There are few federal mandates on how to conduct elections, and the mechanics of voting have been left to the states. For would-be hackers, that means there’s no easy, one-stop target.
+
+Secondly, about 75% of all votes this cycle will be cast on paper, said Pamela Smith, president of Verified Voting, which tracks election systems nationwide And many results are still conveyed by telephone, fax or hand delivery.
+
+Even in cases where results are tallied or transferred electronically, if someone were to try to surreptitiously alter official results, there are built-in redundancies — such as following up an email with a phone call, fax or hand delivery. And with paper, a hand recount is always possible whenever in doubt.
+
+Very few voting machines are directly connected to the Internet, where they might be targeted by hackers based in foreign countries, said Denise Merrill, secretary of state of Connecticut and president of the National Assn. of Secretaries of State.
+
+For hackers to infiltrate voting machines not connected to the Internet, they would need to individually install a bug or virus, presumably by hand, and then hope that one machine spreads the virus to another, or to a computer that tabulates the results. It’s possible, and experts note that most voting machines are usually left unguarded on election eve in schools, town halls and other polling places. But it’s not likely, particularly on a scale that would make a difference.
+
+“I think it is highly improbable that anything that has been suggested could happen,” Merrill said. “There are thousands upon thousands of polling places, each operated independently, by nonpartisan people. It is all broken into such small units, it is just hard to imagine someone hacking into them and being able to make much of a difference in the outcome.”
+
+James B. Comey, the FBI director, reiterated that view during a security forum in Washington on Thursday, saying that the U.S. election system’s antiquated nature is beneficial from a security standpoint.
+
+“The voting system is dispersed among 50 states. It’s clunky as heck,” Comey said.
+
+Didn’t many jurisdictions move to computerized voting after the disputed 2000 election?
+
+After Bush vs. Gore there was a push to modernize and computerize. In 2002, Congress established a $4-billion fund to help states upgrade their voting machines and systems. Many raced to buy and install touch-screen digital devices in the hopes they would eliminate controversy surrounding paper ballots — remember Florida’s “hanging chads”?
+
+But as states soon discovered, digital machines can break down and are more vulnerable to hackers, software bugs and calibration errors than ones based on paper ballots. Many of the early digital machines did not keep paper backups or receipts of votes cast, making it difficult to audit results.
+
+Over the past decade or so, states have been junking purely digital machines in favor of those that spit out paper receipts or keep a paper record of a vote.
+
+Now most cybersecurity experts are pushing states to embrace optical scanning systems, in which voters fill out bubbles or boxes on paper, and then ballots are then scanned by machines. (Remember those Scantron tests from high school?) This method has two major benefits — paper ballots can be checked against the computerized results, and the machines tabulate votes much faster than poll workers counting by hand.
+
+Where are hackers most likely to strike?
+
+Battleground states. If a hacker wanted to tip the election for GOP nominee Donald Trump, he or she would not try to flip California, a strongly Democratic-leaning state, into Trump’s column because such a result would immediately raise suspicions.
+
+If hackers penetrated the machines or voting systems in swing states such as Ohio or Pennsylvania -- which deploy digital machines, for example — to affect just a sliver of the votes, they might change the outcome in a close election.
+
+“In a battleground state, a small nudge may have a big impact,” said Dan Wallach, a Rice University computer science professor. He urged battleground states to step up measures to guard against attacks and to upgrade to optical scanners.
+
+Couldn’t someone hack into a state’s election results website and alter numbers as they were being reported?
+
+They could, and it might result in some initial confusion, but it would almost certainly be detected once local jurisdictions compared their results with the state’s tally and noticed discrepancies. “That kind of hack would be caught very quickly,” Merle said.
+
+But it illustrates a bigger problem of credibility. In an election where Trump has already warned that results might be “rigged,” even an unsuccessful attempt to alter tallies could open the door to conspiracy theories and fuel questions about the election’s legitimacy for years to come."

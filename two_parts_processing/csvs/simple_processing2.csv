@@ -1,0 +1,62 @@
+	id	url	simply_words_count	simply_software_stat	simply_bug_stat	simply_collocations	simply_is_news
+0	28	http://www.manoramaonline.com/health/health-news/job-related-mental-problem.html	2017	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+1	39	http://www.gallowaygazette.co.uk/news/survey-reveals-scotland-s-top-five-nuisance-calls-of-2016-1-4323086	3060	{'application': 1, 'device': 2}	{'error': 1, 'problem': 2}	['problem The device']	True
+2	51	http://www.perthnow.com.au/sport/football/brisbane-roar-extend-unbeaten-run-with-draw-against-western-sydney-wanderers/news-story/519993bee472092c2d6d1b440d704e9a	3323	{'device': 3, 'fix': 1}	{'error': 12}	[]	True
+3	82	http://www.perthnow.com.au/entertainment/movies/will-red-dog-prequel-nip-at-the-heels-of-rogue-one-moana-and-la-la-land/news-story/74355e1088193c2194409e755c66ce64	3480	{'device': 3, 'fix': 1}	{'error': 12}	[]	True
+4	88	http://www.cumbernauld-news.co.uk/news/survey-reveals-scotland-s-top-five-nuisance-calls-of-2016-1-4323086	3021	{'application': 1, 'device': 2}	{'error': 1, 'problem': 2}	['problem The device']	True
+5	89	http://www.jornalpf.com.br/nas-bancas-12/	2060	{'program': 3, 'computer': 2, 'application': 2, 'server': 1}	{'problem': 3}	[]	True
+6	113	http://www.manoramaonline.com/health/health-news/pottassium-bromate-banned-in-india.html	2013	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+7	115	http://agoraphilia.blogspot.com/2012/07/penn-states-punishment-and-social-facts.html	4040	{'program': 1, 'fix': 6}	{'error': 2, 'mistake': 2}	[]	True
+8	126	http://www.thenakedscientists.com/podcasts/special/problem-childbirth	1178	{'update': 2}	{'problem': 2}	[]	True
+9	128	http://www.cio.com/article/3152851/careers-staffing/how-zuckerberg-became-fortunes-businessperson-of-the-year.html	4638	{'technology': 4, 'program': 4, 'algorithm': 1, 'technical': 3, 'server': 1}	{'error': 2, 'problem': 2}	[]	True
+10	134	http://www.manoramaonline.com/health/health-news/hair-fixing-surgery-tragedy.html	2007	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+11	142	http://www.cio.com/article/3152580/outsourcing/new-accounting-standards-change-the-rules-of-it-leasing.html	4643	{'software': 1, 'hardware': 1, 'technology': 3, 'server': 1}	{'error': 2, 'problem': 2}	[]	True
+12	157	http://www.cio.com/article/3153066/it-industry/the-tech-we-didn-t-talk-about-in-2016-but-should-have.html	4735	{'technology': 3, 'fix': 1, 'server': 4}	{'error': 2, 'problem': 1}	[]	True
+13	162	http://www.manoramaonline.com/health/health-news/mobile-phones-dont-up-brain-cancer-risk.html	1887	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+14	194	http://www.manoramaonline.com/health/health-news/stem-cell.html	2101	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+15	204	http://www.manoramaonline.com/health/health-news/over-use-of-potatoes-cause-blood-pressure.html	2005	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+16	213	http://www.manoramaonline.com/health/health-news/zika-who-suggests-for-delay-pregnancy.html	2008	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+17	225	http://www.manoramaonline.com/health/health-news/parents-abandon-conjoined-teens.html	2003	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+18	236	http://agoraphilia.blogspot.com/2013/09/breaking-bad-and-healthcare-system.html	3511	{'fix': 6}	{'problem': 2}	[]	True
+19	237	http://www.manoramaonline.com/health/health-news/detect-stroke-with-signs.html	2088	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+20	300	http://www.cnn.com/videos/us/2016/12/22/stolen-holiday-packages-mobile-orig-mss.cnn?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_freevideo+%28RSS%3A+CNN+-+Video%29	3491	{'package': 5, 'update': 1}	{'error': 4}	[]	True
+21	310	http://www.manoramaonline.com/health/health-news/eye-disease-pupil.html	2027	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+22	335	http://www.bbc.co.uk/sport/football/38417358	19862	{'fix': 1, 'update': 5, 'server': 13}	{'error': 2}	[]	True
+23	338	http://www.manoramaonline.com/health/health-news/blood-donation-day.html	2006	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+24	355	http://www.manoramaonline.com/health/health-news/harlequin-babies-birth.html	2015	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+25	371	http://www.manoramaonline.com/health/health-news/reasons-why-you-are-a-mosquito-magnet.html	1885	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+26	396	http://usafricaonline.com/2016/12/05/usafrica-buharis-policies-actions-fuel-latest-agitation-for-biafra-by-femi-aribisala/	3676	{'program': 2}	{'blunder': 1, 'problem': 2}	[]	True
+27	414	http://www.manoramaonline.com/health/health-news/coastal-area-living-lifestyle.html	1882	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+28	428	http://www.manoramaonline.com/health/health-news/nurses-health.html	1939	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+29	446	http://www.manoramaonline.com/health/health-news/facebook-updation-helps-memory-power.html	2079	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+30	455	http://www.perthnow.com.au/news/national/intelligence-counterterrorism-and-major-events-command-chief-says-business-as-usual-in-queensland/news-story/75061cc336fe37225fa78587965dae39	3262	{'device': 3, 'fix': 1}	{'error': 12}	[]	True
+31	456	http://www.manoramaonline.com/health/health-news/shigella-noticing-matters.html	2011	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+32	465	http://news.nationalpost.com/homes/for-sale-1m-victorian-home-on-a-huge-lot-just-outside-of-manhattan	4856	{'application': 1, 'update': 1, 'server': 2}	{'error': 3}	[]	True
+33	472	http://www.manoramaonline.com/health/health-news/body-reaction-with-alcohol.html	2009	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+34	475	http://www.rd.com/health/wellness/cant-sleep/	5778	{'computer': 2, 'device': 3}	{'problem': 4}	[]	True
+35	479	http://news.nationalpost.com/life/food-drink/festive-take-on-risotto-creates-special-new-years-eve-dish	5538	{'application': 1, 'update': 1, 'server': 2}	{'error': 2}	[]	True
+36	490	http://edwardlucas.blogspot.com/2010/05/slovakia-hungary.html	5177	{'fix': 6}	{'failure': 1, 'problem': 1}	[]	True
+37	491	http://www.manoramaonline.com/health/health-news/shigilla-disease.html	2016	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+38	493	http://news.nationalpost.com/news/world/hijackers-brandishing-hand-grenades-threaten-to-blow-up-libyan-plane-with-118-aboard-including-infant	5149	{'application': 1, 'update': 1, 'server': 2}	{'error': 2}	[]	True
+39	497	https://androidcommunity.com/acer-decides-to-discontinue-smartphone-selling-in-india-20161223/	2304	{'hardware': 1, 'computer': 1}	{'failure': 2}	[]	True
+40	504	http://www.perthnow.com.au/news/national/rachel-antonio-mayor-backs-tip-search-for-clues/news-story/ebf319ec836bf45a6fdcb7c60a53db99	3286	{'device': 3, 'fix': 1}	{'error': 12}	[]	True
+41	507	http://www.manoramaonline.com/health/health-news/kidney-donation-bishop-george-murikkan-sooraj-going-well.html	2020	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+42	508	http://news.nationalpost.com/life/style/the-fashion-industry-really-wants-you-to-wear-pajamas-on-the-street-dont-do-it	6178	{'application': 1, 'update': 1, 'server': 2}	{'error': 3}	[]	True
+43	523	http://news.nationalpost.com/life/travel/aaah-sink-neck-deep-in-hot-mineral-waters-at-budapest-baths	5636	{'application': 1, 'update': 1, 'server': 2}	{'error': 3}	[]	True
+44	534	http://www.manoramaonline.com/health/health-news/harlequin-baby-passed-away.html	2010	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+45	535	http://news.nationalpost.com/life/travel/from-east-to-west-hot-destinations-across-canada	5949	{'application': 1, 'update': 1, 'server': 2}	{'error': 3}	[]	True
+46	545	http://www.manoramaonline.com/health/health-news/dark-chocolate-health-benefits.html	1881	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+47	553	http://www.manoramaonline.com/health/health-news/ajai-sharma-support-orphan-hiv-children.html	2006	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+48	564	http://www.manoramaonline.com/health/health-news/cupping-therapy-consequences.html	2011	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+49	575	http://www.manoramaonline.com/health/health-news/selfies-can-damage-your-skin-and-cause-wrinkles.html	2009	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+50	586	http://www.manoramaonline.com/health/health-news/drinking-alcohol-leads-to-cancer.html	1939	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+51	596	http://www.manoramaonline.com/health/health-news/smoking-infertility.html	2016	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+52	600	http://www.manoramaonline.com/health/health-news/the-perfect-body-to-survive-accidents.html	1945	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+53	606	http://www.sportskeeda.com/general-sports/second-day-times-of-india-global-sports-business-show-2016-focuses-textile-science-sports	2963	{'technology': 3}	{'error': 6}	[]	True
+54	619	http://www.manoramaonline.com/health/health-news/bishop-jacob-murickan-discharged-from-hospital.html	2006	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+55	620	http://therehearsalstudio.blogspot.com/2016/12/paul-hersh-brings-expressive-and.html	4267	{'software': 1, 'technology': 1, 'program': 3, 'device': 1, 'fix': 4}	{'problem': 2}	[]	True
+56	627	http://www.manoramaonline.com/health/health-news/driving-related-with-heart-diseases.html	2015	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+57	632	http://www.nbcphiladelphia.com/news/local/Starbucks-Offers-Free-Drinks-at-Select-Philly-Area-Stores-for-10-Days-of-Cheer-408029925.html	3352	{'package': 1, 'server': 1}	{'error': 3}	[]	True
+58	643	http://www.manoramaonline.com/health/health-news/first-liver-transplant-surgery-in-govt-medical-college-patient-passed-away.html	2005	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+59	649	http://www.manoramaonline.com/health/health-news/smartphone-addiction-make-you-hyperactive.html	1880	{'device': 1, 'fix': 2}	{'error': 2}	[]	True
+60	658	http://www.manoramaonline.com/health/health-news/office-ac-working-atmosphere.html	1851	{'device': 1, 'fix': 2}	{'error': 2}	[]	True

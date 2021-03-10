@@ -1,0 +1,29 @@
+	id	url	simply_words_count	simply_software_stat	simply_bug_stat	simply_collocations	simply_is_news
+0	11	http://www.heraldseries.co.uk/news/hsabingdonnews/14922626.Residents_slam_suggestion_to_scrap_wellbeing_centre_after_pensioners_sob_at_proposals/?ref=rss	3454	{'package': 1, 'update': 1, 'server': 1}	{'error': 1, 'problem': 1}	[]	True
+1	44	https://www.androidpit.com/deal-officesuite-premium-3-year-subscription	1090	{'software': 1, 'hardware': 1, 'program': 3}	{'error': 2, 'problem': 1}	[]	True
+2	49	https://www.androidpit.com/samsung-gear-s3-review	3858	{'software': 3, 'hardware': 4, 'technology': 1, 'technical': 1, 'device': 4, 'database': 1}	{'error': 2, 'problem': 2}	[]	True
+3	76	https://www.androidpit.com/oneplus-3t-review	4273	{'software': 5, 'hardware': 2, 'technology': 2, 'technical': 2, 'device': 14, 'update': 3, 'database': 1}	{'error': 2, 'problem': 1, 'mistake': 1}	[]	True
+4	82	https://www.androidpit.com/pokemon-go-update	4427	{'software': 3, 'hardware': 1, 'fix': 3, 'update': 41, 'server': 1}	{'glitch': 1, 'bug': 2, 'error': 2, 'problem': 2}	[]	True
+5	113	https://www.androidpit.com/deal-selenium-bundle-for-web-app-automation-testing	994	{'software': 1, 'hardware': 1}	{'error': 2, 'problem': 1}	[]	True
+6	116	http://www.dailymail.co.uk/wires/ap/article-4058158/N-Korea-says-South-committing-terror-luring-defectors.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490	6250	{'device': 1, 'fix': 1}	{'defect': 1, 'error': 3, 'mistake': 1}	[]	True
+7	117	https://www.androidpit.com/best-android-games-according-to-google	1285	{'software': 1, 'hardware': 1, 'device': 1}	{'error': 2, 'problem': 1}	[]	True
+8	121	https://www.androidpit.com/new-android-phones	2979	{'software': 1, 'hardware': 2, 'technical': 1, 'device': 6, 'update': 1}	{'error': 2, 'problem': 1}	[]	True
+9	123	http://www.dailymail.co.uk/wires/pa/article-4058230/Video-shows-dangers-storing-e-cigarette-batteries-incorrectly.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490	6310	{'device': 1, 'fix': 1}	{'problem': 1, 'mistake': 2}	[]	True
+10	144	https://www.androidpit.com/samsung-galaxy-s7-edge-review	7327	{'software': 7, 'hardware': 2, 'technology': 4, 'package': 1, 'technical': 1, 'application': 1, 'device': 32, 'fix': 1, 'update': 2, 'database': 1}	{'error': 2, 'problem': 6}	['problem charging the device']	True
+11	147	http://www.heraldseries.co.uk/news/hsabingdonnews/14930570._I_almost_wet_my_knickers__jokes_S_Club_star_after_Christmas_lights_excitement___spectacular_fireworks_VIDEO/?ref=rss	4439	{'package': 1, 'update': 1, 'server': 1}	{'error': 1, 'problem': 3}	[]	True
+12	150	https://www.androidpit.com/install-antivirus-on-android	3501	{'software': 2, 'hardware': 1, 'computer': 5, 'application': 3, 'device': 11}	{'error': 2, 'problem': 4}	['computer No problem']	True
+13	154	https://www.androidpit.com/clash-royale-tips-and-tricks	4938	{'software': 1, 'hardware': 1}	{'error': 2, 'problem': 1}	[]	True
+14	173	https://www.androidpit.com/android-smartphone-color-trend	2230	{'software': 1, 'hardware': 1, 'device': 1, 'update': 1}	{'error': 2, 'problem': 1}	[]	True
+15	198	https://www.androidpit.com/last-minute-christmas-tech-deals	1602	{'software': 1, 'hardware': 1, 'device': 1, 'update': 1}	{'error': 2, 'problem': 1}	[]	True
+16	203	http://www.dailymail.co.uk/wires/reuters/article-4058246/West-Ham-striker-Sakho-miss-African-Nations-Cup.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490	6221	{'device': 1, 'fix': 1}	{'problem': 1, 'mistake': 1}	[]	True
+17	217	http://www.southdakotamagazine.com/writers-block-in-sd	1932	{'computer': 1, 'fix': 4, 'update': 1}	{'problem': 1, 'mistake': 1}	[]	True
+18	235	http://www.latimes.com/business/technology/la-fi-tn-uber-self-driving-sf-20161215-story.html	2974	{'technology': 7, 'program': 1}	{'error': 1, 'mistake': 1}	[]	True
+19	242	https://www.androidpit.com/samsung-galaxy-s8-price-release-date-specs-features	6305	{'software': 3, 'hardware': 4, 'technology': 10, 'technical': 2, 'application': 1, 'device': 9, 'fix': 1}	{'error': 2, 'problem': 2, 'mistake': 1}	[]	True
+20	251	http://www.dailymail.co.uk/health/article-4057786/Boy-8-lost-legs-one-hands-meningitis-walking-thanks-prosthetic-limbs.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490	13447	{'device': 2, 'fix': 1}	{'bug': 1, 'error': 1, 'mistake': 1}	[]	True
+21	256	http://www.heraldseries.co.uk/news/hsabingdonnews/14838890.Nicola_Blackwood__this_is_why_apprenticeships_are_vital/?ref=rss	3702	{'package': 1, 'technical': 1, 'update': 1, 'server': 1}	{'problem': 3}	[]	True
+22	261	https://www.androidpit.com/how-to-fix-camera-failed-samsung-galaxy	3373	{'software': 7, 'hardware': 4, 'application': 1, 'device': 7, 'fix': 13, 'update': 4}	{'error': 8, 'problem': 9}	['software problem', 'software error', 'hardware or firmware problem', 'fix this problem']	True
+23	268	https://www.androidpit.com/xiaomi-mi-mix-review	3508	{'software': 3, 'hardware': 3, 'technology': 4, 'technical': 1, 'device': 5, 'update': 4, 'database': 1}	{'error': 2, 'problem': 1}	[]	True
+24	291	http://www.heraldseries.co.uk/news/hsabingdonnews/14922773.The_Rank_Insider_column__at_times_it_is_a_struggle_to_love_thy_neighbour/?ref=rss	2902	{'package': 1, 'update': 1, 'server': 1}	{'error': 1, 'problem': 1}	[]	True
+25	299	http://www.dailymail.co.uk/news/article-4057848/Berlin-lorry-massacre-suspect-learning-make-bombs-communicated-ISIS-barred-flying-America-officials-reveal.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490	11551	{'computer': 1, 'application': 2, 'device': 1}	{'error': 2}	[]	True
+26	329	https://www.androidpit.com/google-pixel-review	5843	{'software': 5, 'hardware': 5, 'technology': 1, 'technical': 1, 'device': 9, 'fix': 2, 'update': 3, 'database': 1}	{'error': 2, 'problem': 4}	[]	True
+27	340	http://www.huffingtonpost.com/barbara-crossette/the-question-is-can-the-u_b_13436636.html?utm_hp_ref=world&ir=WorldPost	7599	{'program': 1, 'package': 1, 'server': 1}	{'error': 1, 'problem': 1, 'mistake': 1}	[]	True

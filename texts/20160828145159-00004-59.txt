@@ -1,0 +1,118 @@
+The missing Instagram feature worth $3 million	"By Frank Chung of news.com.au
+
+A few lines of code could wipe out Hugh Stephens' entire business.
+
+That's because the Melbourne-based entrepreneur has managed to create a $3 million start-up taking advantage of one strange Instagram feature - or more accurately, missing feature.
+
+Instagram, unlike other social media platforms such as Facebook, does not allow users to schedule posts. That can pose a problem for brands, news outlets, agencies and celebrities who rely on regular posting to keep followers interested.
+
+Rather than do it themselves, many pay Schedugram to do it for them.
+
+The tiny start-up, launched by Stephens in January 2014, solves a hi-tech problem in perhaps the most low-tech way imaginable: by using a literal wall of smartphones to post content on behalf of clients manually at the desired time.
+
+The 26-year-old, who quit a medicine degree at Monash University before founding social and digital media business Dialogue Consulting in 2011, is the first to admit the idea sounds ridiculous.
+
+He recalls discussing the problem with his housemate after Dialogue Consulting clients complained that manually posting Instagram photos was a waste of their time.
+
+""We were talking about different ways of doing it,"" Stephens said. ""Do you do it virtualised [through an Android emulator] or some other method? He said, 'Why don't you just get a whole bunch of phones?' I thought that was bonkers. It would scale excessively poorly and would just be a total nightmare.
+
+""It turns out that's how we ended up fixing it.""
+
+Stephens built the original concept over a period of six weeks using a customised cluster of smartphones that hold Instagram posts, place them in a queue and then post them at the requested time.
+
+Continued below.
+
+Related Content Marianne Elliott: Unravelling charities' ability to do good Liam Dann: Economic centre ground shifts left Cartoon: Len Brown's legacy - Unitary Plan
+
+It starts at $20 per month, but the cost depends on an Instagram account's number of followers. The business has grown to thousands of paying users, with Dialogue Group bringing in $3 million in revenue last financial year, the majority of which comes from Schedugram.
+
+While rival products such as Hootsuite, Buffer and Later include Instagram scheduling features, they often require an extra step such as responding to a push notification before publishing, which isn't ideal for out-of-hours posting.
+
+The majority of Schedugram's clients come from the US and Europe, with a ""surprising"" number in the Middle East, plus some in Asia and around 20 per cent from Australia.
+
+Stephens says everyone from small business owners, cafes, restaurants and popular Instagram ""meme"" accounts to some of the biggest fashion and media brands and global advertising agency groups use the service.
+
+The start-up is run by a team of six distributed around the world, with development done in India and Bulgaria, customer support in the Philippines and account management in the US.
+
+Stephens originally tried using tablet computers, but found they used too much power. After some experimentation, he settled on the Motorola Moto E. The screens are dimmed and a number of other settings are adjusted to save on costs.
+
+Due to the heavy usage, the phones typically have to be replaced after 11 months.
+
+""We do end up chewing through a lot of hardware, and the server time we have to purchase is actually quite strong because the scheduling system we use requires us to poll the database a lot,"" he said.
+
+Instagram, which has 500 million monthly active users, 300 million of whom use the app daily, has previously ruled out allowing scheduling due to concerns around spam.
+
+""We want to fight spam and low quality photos,"" the Facebook-owned company has said in the past. ""Once we allow uploading from other sources, it's harder to control what comes into the ecosystem.""
+
+Schedugram says it includes several measures to ensure customers don't misuse the service and spam their followers, such as a cap of four posts an hour.
+
+""We have to approve all of the posts,"" Stephens said. ""You would be astonished at the kinds of people who try to use our service to literally spam the same crap continuously. We don't consider that to be value-adding activity for Instagram.""
+
+Stephens, who acknowledges that Instagram would ""kill off"" his business if it ever offers a scheduling feature, admits he never expected it to last this long anyway.
+
+""That's kind of part and parcel with the business - it is certainly a niche service to some degree,"" he said.
+
+""I first built it when we had a quiet time in consulting as something I could give to a couple of my agency mates as a favour. I thought it would probably last about six months and then disappear.
+
+""I've continuously thought it's going to disappear tomorrow and it hasn't yet.""
+
+- news.com.au"
+60	876	http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11701618&ref=rss	776	{'hardware': 1, 'system': 1}	{'problem': 3}	[]	True	The missing Instagram feature worth $3 million	"By Frank Chung of news.com.au
+
+A few lines of code could wipe out Hugh Stephens' entire business.
+
+That's because the Melbourne-based entrepreneur has managed to create a $3 million start-up taking advantage of one strange Instagram feature - or more accurately, missing feature.
+
+Instagram, unlike other social media platforms such as Facebook, does not allow users to schedule posts. That can pose a problem for brands, news outlets, agencies and celebrities who rely on regular posting to keep followers interested.
+
+Rather than do it themselves, many pay Schedugram to do it for them.
+
+The tiny start-up, launched by Stephens in January 2014, solves a hi-tech problem in perhaps the most low-tech way imaginable: by using a literal wall of smartphones to post content on behalf of clients manually at the desired time.
+
+The 26-year-old, who quit a medicine degree at Monash University before founding social and digital media business Dialogue Consulting in 2011, is the first to admit the idea sounds ridiculous.
+
+He recalls discussing the problem with his housemate after Dialogue Consulting clients complained that manually posting Instagram photos was a waste of their time.
+
+""We were talking about different ways of doing it,"" Stephens said. ""Do you do it virtualised [through an Android emulator] or some other method? He said, 'Why don't you just get a whole bunch of phones?' I thought that was bonkers. It would scale excessively poorly and would just be a total nightmare.
+
+""It turns out that's how we ended up fixing it.""
+
+Stephens built the original concept over a period of six weeks using a customised cluster of smartphones that hold Instagram posts, place them in a queue and then post them at the requested time.
+
+Continued below.
+
+Related Content Marianne Elliott: Unravelling charities' ability to do good Liam Dann: Economic centre ground shifts left Cartoon: Len Brown's legacy - Unitary Plan
+
+It starts at $20 per month, but the cost depends on an Instagram account's number of followers. The business has grown to thousands of paying users, with Dialogue Group bringing in $3 million in revenue last financial year, the majority of which comes from Schedugram.
+
+While rival products such as Hootsuite, Buffer and Later include Instagram scheduling features, they often require an extra step such as responding to a push notification before publishing, which isn't ideal for out-of-hours posting.
+
+The majority of Schedugram's clients come from the US and Europe, with a ""surprising"" number in the Middle East, plus some in Asia and around 20 per cent from Australia.
+
+Stephens says everyone from small business owners, cafes, restaurants and popular Instagram ""meme"" accounts to some of the biggest fashion and media brands and global advertising agency groups use the service.
+
+The start-up is run by a team of six distributed around the world, with development done in India and Bulgaria, customer support in the Philippines and account management in the US.
+
+Stephens originally tried using tablet computers, but found they used too much power. After some experimentation, he settled on the Motorola Moto E. The screens are dimmed and a number of other settings are adjusted to save on costs.
+
+Due to the heavy usage, the phones typically have to be replaced after 11 months.
+
+""We do end up chewing through a lot of hardware, and the server time we have to purchase is actually quite strong because the scheduling system we use requires us to poll the database a lot,"" he said.
+
+Instagram, which has 500 million monthly active users, 300 million of whom use the app daily, has previously ruled out allowing scheduling due to concerns around spam.
+
+""We want to fight spam and low quality photos,"" the Facebook-owned company has said in the past. ""Once we allow uploading from other sources, it's harder to control what comes into the ecosystem.""
+
+Schedugram says it includes several measures to ensure customers don't misuse the service and spam their followers, such as a cap of four posts an hour.
+
+""We have to approve all of the posts,"" Stephens said. ""You would be astonished at the kinds of people who try to use our service to literally spam the same crap continuously. We don't consider that to be value-adding activity for Instagram.""
+
+Stephens, who acknowledges that Instagram would ""kill off"" his business if it ever offers a scheduling feature, admits he never expected it to last this long anyway.
+
+""That's kind of part and parcel with the business - it is certainly a niche service to some degree,"" he said.
+
+""I first built it when we had a quiet time in consulting as something I could give to a couple of my agency mates as a favour. I thought it would probably last about six months and then disappear.
+
+""I've continuously thought it's going to disappear tomorrow and it hasn't yet.""
+
+- news.com.au"

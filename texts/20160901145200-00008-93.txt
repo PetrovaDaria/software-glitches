@@ -1,0 +1,25 @@
+BPC launches instant online bill payment system	"ICT: To facilitate a more customer friendly billing service, the Bhutan Power Corporation (BPC) launched a real-time bill payment service via Bank of Bhutan’s (BoB) M-BoB mobile application yesterday.
+
+The feature allows customers to pay their electric bill using M-BoB. Unlike the previous provision through the same facility (M-BoB), the new real-time transaction allows immediate update of the BPC system when a payment is made.
+
+In the new transaction system, customers should only know their customer or consumer number on the bill, which is then entered into the mobile application. Automatically, the message generated is sent to the BPC billing system and payments are made.
+
+The project coordinator, Pema Lhaden said that in the previous system, it took at least a day to process and update the system following the payment. “Although the payment were made through M-BoB, it included manual labour to download the bank statements and update our system.”
+
+She said that with the real-time transaction, all the payments are done instantaneously and the customers informed on the payment instantly at the end of the transaction.
+
+“Now customers need not carry their bills along because all the outstanding bills are also generated automatically when they enter the application for bill payments,” said Pema Lhaden.
+
+A new feature in the system prevents the occurrence of double payments through the application. A message is generated when a person accidentally tries to make double payment on the same bill.
+
+However, during the launch some technical glitch in the system almost jeopardised the entire program. During the live-test of the application, a “technical error” message was displayed while making the payments. But the glitch was however solved immediately by a technical team from BoB.
+
+Officials from BoB said that it was a minor system lapse, which will not occur again and assured that the application and the system are safe and efficient.
+
+With the new system in place, technical errors and mistakes from manual payments are reduced, added bank officials.
+
+The bank is currently working on a similar project, which can be used via internet and is expected to be completed shortly.
+
+Meanwhile, there are about 40,000 M-BoB users in the country today. BoB charges a monthly fee of Nu 10 for using the application.
+
+Younten Tshedup"

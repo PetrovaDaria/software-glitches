@@ -1,0 +1,31 @@
+{'glitch_type': ['software'], 'victim': ['the central bank’s ability to process a limited number of transactions for wholesale counterparties'], 'manufacturer': ['Bank of England'], 'duration': ['overnight'], 'severity_scale': [], 'money_loss': [], 'other_loss': ['wholesale counterparty transactions may be dealt with somewhat later in the day than usual'], 'reason': ['intermittent technology communication problems', 'regular internal update']}
+{'Bank': 6, 'the Bank of England': 2, 'Chaps': 2, 'Bank of England': 1, 'Threadneedle Street': 1, 'RTGS': 1}
+{'Bank': 6, 'Chaps': 2, 'the Bank of England': 1, 'RTGS': 1}
+
+{'glitch_type': [], 'victim': ['home deliveries'], 'manufacturer': ['British supermarket chain Tesco Plc'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['orders cancelled', 'forced cancellation of many orders'], 'reason': ['complete system failure']}
+{'Tesco': 3, 'Twitter': 2, 'Reuters': 1, 'Tesco Plc': 1, 'BBC': 1}
+{'Tesco': 2, 'Reuters': 1, 'Tesco Plc': 1, 'Twitter': 1, 'BBC': 1}
+
+{'glitch_type': ['new watch', 'The Watch Series 3'], 'victim': [], 'manufacturer': ['Apple', 'Apple Inc (AAPL.O)'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': ['LTE connectivity problems ']}
+{'Apple': 9, 'Reuters': 2, 'REUTERS': 2, 'Reuters) - Apple Inc': 1, 'AAPL.O)': 1, 'the New York Times': 1, 'the Wall Street Journal': 1, 'The Verge': 1, 'Apple COO': 1, 'Verge': 1, 'Apple Watches': 1, 'Loup Ventures': 1, 'the Series 3 Watch': 1, 'LTE': 1, 'Techanlysis Research': 1, 'iOS 11’s Mail': 1, 'Microsoft Exchange': 1, 'Outlook.com': 1}
+{'Apple': 8, 'REUTERS': 2, 'Reuters) - Apple Inc': 1, 'AAPL.O)': 1, 'Reuters': 1, 'the Wall Street Journal': 1, 'The Verge': 1, 'Verge': 1, 'Loup Ventures': 1, 'the Series 3 Watch': 1, 'Techanlysis Research': 1, 'iOS 11’s Mail': 1, 'Microsoft Exchange': 1, 'Outlook.com': 1}
+
+{'glitch_type': ['network glitch'], 'victim': ['mainland China'], 'manufacturer': ['China Unicom', 'China Unicom Hong Kong Ltd'], 'duration': ['20-minute', 'from 1:25 p.m. to 1:45 p.m. local time'], 'severity_scale': ['a brief but widespread'], 'money_loss': [], 'other_loss': ['Internet outage'], 'reason': ['glitch in the broadband infrastructure', 'a glitch in a piece of equipment in its backbone network']}
+{'China Unicom': 3, 'China Unicom Hong Kong Ltd': 1, 'Weibo': 1, 'China Telecom Corp Ltd': 1}
+{'China Unicom': 3, 'China Unicom Hong Kong Ltd': 1, 'Weibo': 1}
+
+{'glitch_type': [], 'victim': ['customers throughout Thailand'], 'manufacturer': ['Thai internet provider 3BB'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['were unable to access Google services'], 'reason': []}
+{'Google': 2, '3BB': 1, 'Thaivisa': 1, 'YouTube': 1, 'Gmail': 1, 'Google News': 1, 'BB': 1}
+{'Google': 2, '3BB': 1, 'Thaivisa': 1, 'YouTube': 1, 'Gmail': 1, 'Google News': 1, 'BB': 1}
+
+{'glitch_type': ['computer outage'], 'victim': ['Spirit Airlines Inc'], 'manufacturer': ['Spirit Airlines Inc'], 'duration': ['an hour'], 'severity_scale': ['brief'], 'money_loss': [], 'other_loss': ['delayed departures of 16 flights'], 'reason': ['computer outage']}
+{'Spirit Airlines': 3, 'Spirit': 2, 'Reuters': 1, 'Dombrowski': 1, 'the U.S. Federal Aviation Administration': 1, 'FAA': 1}
+{'Spirit Airlines': 3, 'Reuters': 1, 'Dombrowski': 1, 'the U. Federal Aviation Administration': 1, 'FAA': 1}
+
+{'glitch_type': [], 'victim': ['YouTube'], 'manufacturer': ['YouTube'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['unable to access the video service'], 'reason': ['server downtime']}
+{'YouTube': 3, 'Down Detector': 1, 'Outage Report': 1, 'Google': 1, 'Youtube': 1}
+{'YouTube': 3, 'Down Detector': 1, 'Outage Report': 1, 'Google': 1, 'Youtube': 1}
+
+{'glitch_type': ['software issue'], 'victim': [], 'manufacturer': ['Fiat Chrysler'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['7 thousand vehicles'], 'reason': []}
+{'Amarillo News': 1, 'Fiat Chrysler': 1}
+{'Amarillo News': 1, 'Fiat Chrysler': 1}
