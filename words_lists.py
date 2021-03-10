@@ -6,12 +6,13 @@ software_words = [
     'algorithm',
     'package',
     'technical',
-    'system',
     'computer',
     'application',
     'device',
     'fix',
     'update',
+    'database',
+    'server'
 ]
 
 bug_words = [
@@ -19,7 +20,6 @@ bug_words = [
     'bug',
     'outage',
     'failure',
-    'issue',
     'malfunction',
     'defect',
     'error',
