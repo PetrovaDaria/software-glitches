@@ -1,7 +1,7 @@
 import flair
 import stanza
-from parse_org import get_org
-from wikidata_sparql import is_software_company
+from parse_org import get_orgs
+from wikidata.wikidata_sparql import is_software_company
 
 text = '''
 A tech failure at the Bank of England that hit wholesale transactions has been fixed, although Threadneedle Street warned that the glitch will result in delays.
@@ -34,7 +34,7 @@ for sentence in sentences:
             'score': score
         })
 # sorted_sentences = sorted(negative_sentences_with_sent_score, key = lambda x: (x['tone'], -x['score']))
-sorted_negative_sentences_with_sent_score = sorted(negative_sentences_with_sent_score, key = lambda x: -x['score'])
+sorted_negative_sentences_with_sent_score = sorted(negative_sentences_with_sent_score, key=lambda x: -x['score'])
 print(sorted_negative_sentences_with_sent_score)
 sorted_negative_sentences = [item['sentence'] for item in sorted_negative_sentences_with_sent_score]
 
@@ -42,4 +42,4 @@ stanza.download('en', processors='tokenize,ner')
 nlp = stanza.Pipeline(lang='en', processors='tokenize,ner')
 for sentence in sorted_negative_sentences:
     doc = nlp(sentence)
-    orgs = get_org(doc)
+    orgs = get_orgs(doc)

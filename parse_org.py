@@ -3,7 +3,12 @@ import stanza
 import flair
 
 
-def get_org(doc):
+def get_orgs(doc):
+    '''
+    Получение организаций из текста
+    :param doc: документ, предобрабатанный stanza
+    :return: словарь: ключ - название организации, значение - количество раз в тексте
+    '''
     entities = doc.ents
     orgs = {}
     for ent in entities:
@@ -12,7 +17,6 @@ def get_org(doc):
                 orgs[ent.text] = 0
             orgs[ent.text] += 1
     orgs = dict(sorted(orgs.items(), key=lambda item: item[1], reverse=True))
-    print(orgs)
     return orgs
 
 
@@ -61,10 +65,10 @@ def main():
         current_row = initial_csv.loc[i]
         title_and_text = current_row.title + ' ' + current_row.text
         doc1 = nlp(title_and_text)
-        get_org(doc1)
+        get_orgs(doc1)
         negative_text = get_negative_text(title_and_text, flair_sentiment)
         doc2 = nlp(negative_text)
-        get_org(doc2)
+        get_orgs(doc2)
         get_money(doc1)
         get_money(doc2)
     #     csv_with_parsed_org.loc[i] = [
