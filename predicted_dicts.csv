@@ -1,0 +1,123 @@
+id	url	archive_name	date	title	text	manual_entities	predicted_entities
+11	http://www.wandsworthguardian.co.uk/uk_national_news/15899428.Bank_of_England_IT_glitch_now_fixed/?ref=rss	CC-NEWS-20180126074916-00162_ENG	26.01.2018	Bank of England IT glitch now fixed	"A tech failure at the Bank of England that hit wholesale transactions has been fixed, although Threadneedle Street warned that the glitch will result in delays.
+
+The Bank admitted on Thursday evening that its IT system was suffering “intermittent technology communication problems” following a “regular internal update”.
+
+The problem impaired the central bank’s ability to process a limited number of transactions for wholesale counterparties, leading it to implement “workarounds” to enable the Bank to operate as normal.
+
+However, on Friday morning, the Bank said that the issue had been fixed overnight, but said that wholesale counterparty transactions may be delayed as it plays catch up.
+
+A statement read: “Technology communications problems reported by the Bank yesterday have been fixed overnight.
+
+“Systems are now working normally, although there is some catch-up work to complete.
+
+“We expect to be able to process business as normal today, but in order to catch up from yesterday, wholesale counterparty transactions may be dealt with somewhat later in the day than usual.”
+
+The governor of the Bank of England Mark Carney (PA)
+
+The real-time gross settlement (RTGS) service and the Chaps system, which retail banking customers rely on, were not affected so the general public will see “no impact on any of their banking services”, the Bank added.
+
+In 2014, the Bank suffered an IT outage that did affect Chaps and RTGS, impacting thousands of transactions such as home sales.
+
+Following the debacle, Governor Mark Carney ordered a “thorough, independent review” of the payments system."	{'glitch_type': ['software'], 'victim': ['the central bank’s ability to process a limited number of transactions for wholesale counterparties'], 'manufacturer': ['Bank of England'], 'duration': ['overnight'], 'severity_scale': [], 'money_loss': [], 'other_loss': ['wholesale counterparty transactions may be dealt with somewhat later in the day than usual'], 'reason': ['intermittent technology communication problems', 'regular internal update']}	{'glitch_type': [], 'victim': ['Bank'], 'manufacturer': [], 'duration': ['Thursday', 'evening', 'Friday', 'morning', 'overnight', 'yesterday', 'today', 'yesterday', 'later in the day', '2014'], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': []}
+15	https://www.reuters.com/article/tesco-outages-idUSL8N1JH2P7	CC-NEWS-20170817152632-00056_ENG	17.08.2017	Tesco computer glitch hits home deliveries, orders cancelled	"June 20 (Reuters) - British supermarket chain Tesco Plc said on Tuesday a computer glitch had resulted in the cancellation of many home deliveries and disrupted services nationwide.
+
+""We experienced an unforeseen technical fault which resulted in the forced cancellation of many orders due to a complete system failure"" Tesco said on Twitter after customers complained via social media about cancellations and delays to deliveries.
+
+Tesco, which was not immediately available for comment, added on Twitter that it was working to resolve the issue and it was confident the problem would be fixed soon.
+
+Customers were offered a 10 pound ($12.66) voucher as compensation and were asked to re-arrange their deliveries online, the BBC reported. ($1 = 0.7898 pounds) (Reporting by Sanjeeban Sarkar and Rahul B in Bengaluru; editing by Alexander Smith)"	{'glitch_type': [], 'victim': ['home deliveries'], 'manufacturer': ['British supermarket chain Tesco Plc'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['orders cancelled', 'forced cancellation of many orders'], 'reason': ['complete system failure']}	{'glitch_type': [], 'victim': ['Tesco'], 'manufacturer': ['Twitter'], 'duration': ['June 20', 'Tuesday'], 'severity_scale': [], 'money_loss': ['10 pound', '12.66', '1', '0.7898 pounds'], 'other_loss': [], 'reason': []}
+60	https://in.reuters.com/article/apple-watch/apple-concedes-new-watch-has-connectivity-glitch-idINKCN1BV2OW	CC-NEWS-20171018000556-00056_ENG	18.10.2017	Apple concedes new watch has connectivity glitch	"(Reuters) - Apple Inc (AAPL.O) on Wednesday conceded its latest smartwatch unveiled a week ago has problems with its most important feature: the ability to make phone calls and access data without an iPhone nearby.
+
+Several prominent reviewers said Wednesday they could not recommend the device because of a wifi glitch that causes cellular connectivity problems.
+
+The Watch Series 3 starts at $399 and was launched alongside new iPhone models. Unlike previous versions of the watch, it has cellular network connectivity built in.
+
+Apple said the watch can experience LTE connectivity problems when it connects to open wi-fi networks such as at a hotel or a coffee shop.
+
+The company is “investigating a fix for a future software release,” Apple spokeswoman Amy Bessette told Reuters.
+
+Many reviewers such as the New York Times praised the new features and gave generally positive assessments.
+
+But other prominent publications, including the Wall Street Journal and The Verge, recommended against purchasing the new model because the LTE cellular data connectivity did not work as expected.
+
+Jeff Williams, Apple COO, talks about the Apple Watch Series 3. REUTERS/Stephen Lam
+
+The mixed reviews weighed on Apple shares, which closed down about 1.7 percent at $156.07.
+
+“Considering that my Apple Watch Series 3 with LTE (both first and second review units) didn’t function like it was supposed to, I can’t recommend buying it — and paying the monthly cell fee — based on promises,” Verge reviewer Lauren Goode wrote.
+
+Apple Watches are displayed during a launch event in Cupertino, California, U.S. September 12, 2017. REUTERS/Stephen Lam
+
+Apart from connection issues, some reviewers were disappointed with the drain on the watch’s battery while making calls. Apple had touted up to 18 hours of battery life but said the watch would get only one hour on a cellular phone call.
+
+Gene Munster, a longtime Apple analyst with Loup Ventures, doubted issues with the Series 3 Watch would hurt Apple’s bottom line. “That review takeaway is a negative but is not a surprise. This is the first generation watch with LTE,” he told Reuters.
+
+Bob O‘Donnell, an analyst with Techanlysis Research, said the watch reviews, paired with reviews of the iPhone 8 that were generally positive but described the phone as an incremental improvement on its predecessor, put more pressure on the iPhone X to garner good press before its Nov. 3 launch.
+
+Apple also experienced hiccups with iOS 11, the new operating system the firm released Tuesday.
+
+For business users, iOS 11’s Mail application had problems sending mail for Microsoft Exchange and Outlook.com mail accounts."	{'glitch_type': ['new watch', 'The Watch Series 3'], 'victim': [], 'manufacturer': ['Apple', 'Apple Inc (AAPL.O)'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': ['LTE connectivity problems ']}	{'glitch_type': [], 'victim': ['Reuters) - Apple Inc'], 'manufacturer': ['Apple'], 'duration': ['Wednesday', 'a week ago', 'Wednesday', 'monthly', 'September 12, 2017', 'up to 18 hours', 'only one hour', 'Nov. 3', 'Tuesday'], 'severity_scale': [], 'money_loss': ['399', '156.07'], 'other_loss': [], 'reason': []}
+68	http://in.reuters.com/article/china-unicom-hk-internet-idINL2N0WM0BP20150320	CC-NEWS-20170506225418-00004_ENG	06.05.2017	China Unicom network glitch causes 20-minute Internet outage	"BEIJING, March 20 A glitch in the broadband infrastructure of China Unicom Hong Kong Ltd caused a brief but widespread Internet outage in mainland China on Friday, the company said.
+
+China Unicom, in a statement on its Weibo microblogging account, said Internet access was disrupted from 1:25 p.m. to 1:45 p.m. local time.
+
+The company attributed the outage to a glitch in a piece of equipment in its backbone network - a critical, high-level layer in a national Internet infrastructure.
+
+Internet users later took to social media to complain about the outage, with comments indicating those affected were in areas as distant as Tianjin city in the north and Shanghai in the east, as well as in inland regions.
+
+In February, China Unicom said it had 69 million broadband customers as well as 296 million people subscribed to its mobile phone network.
+
+The country's other major broadband provider, China Telecom Corp Ltd, had 108 million broadband customers. (Reporting by Gerry Shih; Editing by Christopher Cushing)"	{'glitch_type': ['network glitch'], 'victim': ['mainland China'], 'manufacturer': ['China Unicom', 'China Unicom Hong Kong Ltd'], 'duration': ['20-minute', 'from 1:25 p.m. to 1:45 p.m. local time'], 'severity_scale': ['a brief but widespread'], 'money_loss': [], 'other_loss': ['Internet outage'], 'reason': ['glitch in the broadband infrastructure', 'a glitch in a piece of equipment in its backbone network']}	{'glitch_type': [], 'victim': ['China Unicom Hong Kong Ltd'], 'manufacturer': ['China Unicom'], 'duration': ['20-minute', 'March 20', 'Friday', '1:25 p.m.', '1:45 p.m.', 'February'], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': []}
+69	https://www.thailandnews.co/2017/05/3bb-back-normal-major-technical-issues-saturday/	CC-NEWS-20170506225418-00004_ENG	06.05.2017	3BB back to normal after major technical issues on Saturday	"A technical issue with Thai internet provider 3BB meant that customers were unable to access Google services on Saturday (May 6). The problem began on Saturday morning when customers throughout Thailand took to the Thaivisa forum to complain they were unable to access Google websites including YouTube, Gmail and Google News.
+
+Even the 3BB website was offline, as for a time, was its 1530 call centre number.
+
+Full story: Thaivisa News
+
+ThaiTech by Thaivisa / Thairath"	{'glitch_type': [], 'victim': ['customers throughout Thailand'], 'manufacturer': ['Thai internet provider 3BB'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['were unable to access Google services'], 'reason': []}	{'glitch_type': [], 'victim': ['Thaivisa'], 'manufacturer': ['Google', 'YouTube'], 'duration': ['Saturday', 'Saturday', 'May 6)', 'Saturday', 'morning'], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': []}
+80	https://www.reuters.com/article/us-spirit-airlines-faa/spirit-airlines-says-brief-computer-outage-disrupts-16-flights-idUSKCN1GL30A	CC-NEWS-20180310012945-00004_ENG	10.03.2018	Spirit Airlines says brief computer outage disrupts 16 flights	"(Reuters) - Spirit Airlines Inc suffered a computer outage on Friday that lasted an hour and caused delayed departures of 16 flights, a spokesman for the airline said.
+
+FILE PHOTO: A Spirit Airlines airplane sits at a gate at the O'Hare Airport in Chicago, Illinois October 2, 2014. REUTERS/Jim Young
+
+“We experienced a brief system outage this evening, but the issue is now resolved,” Spirit spokesman Derek Dombrowski said.
+
+“The outage lasted an hour and directly impacted 16 flights,” Dombrowski said, adding that the company was investigating the cause of the problem.
+
+Earlier, the airline asked the U.S. Federal Aviation Administration to ground all of its flights systemwide due to the computer problem, the FAA said in a tweet. The agency said about 30 minutes later that the ground stop had been canceled.
+
+Spirit, a fast-growing U.S. budget airline, operates more than 400 daily flights to 60 destinations in the U.S., Latin America and the Caribbean.
+
+(This version of the story was refiled to fix typographical error in paragraph 3)"	{'glitch_type': ['computer outage'], 'victim': ['Spirit Airlines Inc'], 'manufacturer': ['Spirit Airlines Inc'], 'duration': ['an hour'], 'severity_scale': ['brief'], 'money_loss': [], 'other_loss': ['delayed departures of 16 flights'], 'reason': ['computer outage']}	{'glitch_type': [], 'victim': ['Spirit Airlines'], 'manufacturer': [], 'duration': ['Friday', 'an hour', 'October 2, 2014', 'this evening', 'an hour', 'about 30 minutes later', 'daily'], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': []}
+212	https://thenextweb.com/apps/2017/08/09/youtube-down-right-now/	CC-NEWS-20170809121516-00025_ENG	09.08.2017	YouTube is down for many users worldwide right now	"You really might have to go back to work: YouTube appears to be experiencing server downtime across the board.
+
+Numerous users have taken to Down Detector and Outage Report to report being unable to access the video service. It remains unclear what precisely is causing the issue, but Google has not yet confirmed any technical troubles on its status page.
+
+Youtube is having issues since 09:24 AM ESThttps://t.co/Y2dMzKpSuF
+
+RT if you're also affected #youtubedown pic.twitter.com/fwQo4oIn90 — Outage Report (@ReportOutage) August 9, 2017
+
+The Down Detector heat map suggests the outage is most severely affecting users in Central Europe and the American East Coast – though there are also some reports from Russia and Japan.
+
+You can see the full extent of the outage in the screenshot below:
+
+The YouTube support team has not yet officially confirmed the sever downtime, but many users are tweeting that they are unable to access the service.
+
+There are also some users reporting dealing with faulty user interface on YouTube. Judging by the diversity of languages – English, French and Portuguese among others – the issue is not limited to a single region.
+
+Hi Anthony, here are some troubleshooting steps that might resolve the issue: https://t.co/lSShr5qQh8. Keep us posted! — Team YouTube (@TeamYouTube) August 9, 2017
+
+Bonjour, pouvez-vous nous faire parvenir une capture d'écran de vos abonnements ? — Team YouTube (@TeamYouTube) August 9, 2017
+
+Olá Cléber. Gostaríamos de ajudar. Esta visualizando alguma mensagem de erro? Nos avise. — Team YouTube (@TeamYouTube) August 9, 2017
+
+Developing…"	{'glitch_type': [], 'victim': ['YouTube'], 'manufacturer': ['YouTube'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['unable to access the video service'], 'reason': ['server downtime']}	{'glitch_type': [], 'victim': [], 'manufacturer': ['YouTube'], 'duration': ['09:24 AM', 'August 9, 2017', 'August 9, 2017', 'August 9, 2017', 'August 9, 2017'], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': []}
+222	http://www.newschannel10.com/story/29974219/another-software-issue-causes-thousand-of-jeeps-to-be-recalled	CC-NEWS-20170718144202-00012_ENG	18.07.2017	Another software issue causes thousand of Jeeps to be recalled - KFDA - NewsChannel 10 / Amarillo News, Weather, Sports	"NATIONWIDE - Fiat Chrysler is recalling more than 7 thousand vehicles as software issues are once again causing problems.
+
+The recall covers the 2015 Jeep Renegade that has a 6 1/2 inch touchscreen.
+
+This is the second recall by the company for software issues in just two months.
+
+The SUV is vulnerable to being hacked but is different from the system that caused a recall of 1.4 million Jeeps in July.
+
+The automaker says owners will receive a thumb drive so they can perform an update themselves to fix the problem."	{'glitch_type': ['software issue'], 'victim': [], 'manufacturer': ['Fiat Chrysler'], 'duration': [], 'severity_scale': [], 'money_loss': [], 'other_loss': ['7 thousand vehicles'], 'reason': []}	{'glitch_type': [], 'victim': ['Amarillo News'], 'manufacturer': [], 'duration': ['2015', 'just two months', 'July'], 'severity_scale': [], 'money_loss': [], 'other_loss': [], 'reason': []}
